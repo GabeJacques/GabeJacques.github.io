@@ -1,1 +1,49 @@
-# GabeJacques.github.io
+html>
+<head>
+<style>
+body {
+    background:Black;
+    font-family: Magenta;
+}  
+#content {
+    background: lightyellow;
+    min-width: 200px;
+    max-width: 500px;
+    padding: 50px;
+    margin: auto;
+    margin-top: -50px;
+    line-height: 150%;
+}
+h1 {
+    letter-spacing: 2px;
+    font-size: 16px;
+    text-align: center;
+}
+h2 {
+    font-size: 14px;
+    text-align: center;
+}
+h3 {
+    font-size: 12px;
+}
+</style>
+</head>    
+<body>
+    <div id="content">
+        <h1>Gabe Jacques</h1>
+        <h2>Senior from Fairfax, Virginia</h2>
+        
+         <p>I am a senior at Bob Jones University studying Human Resources. </p>
+         <p>
+            I attend Newspring in Greenville,SC 
+         </p> 
+         <p>
+            I enjoy watching sports, fishing, and playing video games. My favorite sports to watch are football and baseball.
+         </p>
+        <h3>EDUCATION</h3>
+        Human Resources<br />
+        Bob Jones University
+    </div>
+           
+</body>
+</html>
